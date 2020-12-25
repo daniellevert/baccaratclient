@@ -1,0 +1,19 @@
+/*
+* Created by: Daniel LeVert & Adam Sammakia
+* For CS 342 -- Project 3 -- Baccarat Game
+* Description: CLIENT JavaFX stylesheet
+*/
+
+.root {
+    -fx-background-color: #0AC739;
+    -fx-margin: auto;
+    -fx-padding: 10px;
+}
+
+.VBox {
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-padding: 15;
+}
